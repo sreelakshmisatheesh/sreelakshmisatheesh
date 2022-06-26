@@ -1,6 +1,6 @@
 
 ### Hey, I'm Sreelakshmi Satheesh
-<h4 align="center">A passionate student-engineer from India exploring deep into the world of development..</h4>
+<h4 align="center">A passionate learner from India exploring deep into the world of development..</h4>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
 
 
