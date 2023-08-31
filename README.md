@@ -1,15 +1,16 @@
 ### Hi, I'm Sreelakshmi Satheesh! 👋
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=flat-square&logo=Linkedin&logoColor=ADBAC7&bg_color=AARRGGBB)](https://www.linkedin.com/in/sreelakshmisatheesh/)
+[![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=sreelakshmisatheeshnair@gmail.com)](mailto:sreelakshmisatheeshnair@gmail.com)
+
 - 🎓 Computer Science Undergrad from India
 - 👩‍💻 Decent hands-on experience in Web Development and Programming Languages
 - 💼 Development: Express/Node for Backend, React.js for Frontend
 - 🛠️ Tech Stack: C, JavaScript, HTML, CSS
 - 🚀 Passionate about building excellent web applications
 - 🗣️ Soft Skills: Effective communication, leadership, and strong teamwork
-
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=flat-square&logo=Linkedin&logoColor=ADBAC7&bg_color=AARRGGBB)](https://www.linkedin.com/in/sreelakshmisatheesh/)
-[![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=sreelakshmisatheeshnair@gmail.com)](mailto:sreelakshmisatheeshnair@gmail.com)
+- 📫 Connect with me: sreelakshmisatheeshnair@gmail.com
+  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
